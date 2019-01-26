@@ -92,3 +92,67 @@ img#logo-img {
    padding:0;
    opacity: 0.8;
 }
+
+.secondary-header h1{
+   font-family: Helvetica, Arial, sans-serif;
+   text-decoration: underline;
+   margin-bottom: 10px;
+}
+
+.secondary, .secondary-text {
+   width: 1100px;
+   /*margin: 0px 0px 0px 0px;
+   padding: 0px;*/
+}
+
+.secondary img {
+   width: 200px;
+   height:150px;
+   margin:0;
+   display: inline-block;
+}
+
+.secondary article {
+   width:350px;
+   display: inline-block;
+   float:left;
+}
+.secondary h2 {
+   display: inline-block;
+   
+}
+#img1 {
+   margin-left: 0;
+}
+
+#art1 {
+   display: inline-block;
+}
+
+#art1 h2 {
+   text-align: center;
+   width: 58%;
+   margin: 0;
+}
+#art2 {
+   display: inline-block;
+}
+
+#art2 h2 {
+   text-align: center;
+   width: 58%;
+   margin: 0;
+}
+
+#art3 {
+   display: inline-block;
+   /*position: relative;
+   left:692px;
+   top:-418px;*/
+}
+
+#art3 h2 {
+   text-align: center;
+   width: 58%;
+   margin: 0;
+}
