@@ -8,9 +8,43 @@ img#logo-img {
    padding-top: 0px;
    border-top: 0px;
    margin: 0px;
+   margin-right: 50px;
+   float: left;
 }
 
 .page-header {
    padding-bottom: 10px;
    border-bottom: 2px solid black;
+}
+
+
+.page-header nav ul {
+   list-style-type: none;
+   margin: 0;
+   overflow: hidden;
+   line-height: 50px;
+   background: #f7db02;
+   border: 1px solid #f7db02;
+   border-radius: 50px;
+}
+
+.page-header nav ul li {
+   display: inline-block;
+   float: left;
+   margin-right: 35px;
+   font-size: 28px;
+   font-family: Helvetica, Arial, sans-serif;
+}
+
+.page-header nav ul li a {
+   margin: 0px 10px;
+}
+
+#search-icon {
+   width: 40px;
+   margin:6px 0 -10px;
+}
+
+h1, h2 {
+   font-family: Helvetica, Arial, sans-serif;
 }
